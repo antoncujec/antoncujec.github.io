@@ -1,0 +1,12 @@
+* {
+    font-family: helvetica, arial, "san-serif";
+}
+
+h1, h2 {
+    text-transform: capitalize;
+    /* make the space between lines smaller specifically between h1 and nav */
+}
+
+h1, nav {
+    text-align: center;
+}
